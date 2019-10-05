@@ -8,7 +8,25 @@
   #img: /static/assets/img/landing/jekyll.png
   desc: "[1] Ti Ti Nguyen, Vu N. Ha, Long B. Le, and Robert Schober, Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems, IEEE Transactions on Wireless Communications, 2019. (To appear) <br />
   
-   [2] Vu N. Ha, Duy H. N. Nguyen, and Jean-Francois Frigon, Joint subchannel allocation and hybrid precoding design for mmWave multiuser OFDMA systems, IEEE Transactions on Wireless Communications, 2018."
+   [2] Vu N. Ha, Duy H. N. Nguyen, and Jean-Francois Frigon, Joint subchannel allocation and hybrid precoding design for mmWave multiuser OFDMA systems, IEEE Transactions on Wireless Communications, 2018. <br />
+   
+   [3] Vu N. Ha and Long B. Le, End-to-end network slicing in virtualized OFDMA-based cloud radio access networks, IEEE Access 5, 2017. <br />
+   
+   [4] Vu N. Ha, Long B. Le, and Ngoc-Dung Dao, Coordinated multipoint transmission design for Cloud-RANs considering limited fronthaul capacity constraints, IEEE Transactions on Vehicular Technology, vol. 65, no. 9, Sept. 2016. <br />
+   
+   [5] Tri Nguyen, Vu N. Ha, and Long B. Le, Resource allocation optimization in multi-user multi-cell massive MIMO networks considering pilot contamination,” IEEE Access, 3, 2015. <br />
+   
+   [6] Vu N. Ha and Long B. Le, Fair resource allocation for OFDMA femtocell networks with macrocell protection, IEEE Transactions on Vehicular Technology, vol. 63, no. 3, Mar. 2014. <br />
+   
+   [7] Vu N. Ha and Long B. Le, Distributed base station association and power control for heterogeneous cellular networks, IEEE Transactions on Vehicular Technology, vol. 63, no. 1, Jan. 2014. <br />
+   
+   [8] Vu N. Ha and H. Y. Kong, Joint subcarrier matching and power allocation in OFDM two-way relay systems, IEEE Journal of Communications and Networks, vol. 14, no. 3, Jun. 2012. <br />
+   
+   [9] Vu N. Ha and H. Y. Kong, Performance analysis for the amplify-and-forward two-way cooperative relaying network, IEICE Transactions on Communications, vol. E94-B, no. 9, Sept. 2011. <br />
+   
+   [10] Vu N. Ha, Tan T. Le, and H. Y. Kong, Capacity performance analysis for decode-and-forward OFDM dual-hop system, IEICE Transactions on Communications, vol. E93-B, no. 9, Sept. 2010. <br />
+   
+   [11] Vu N. Ha and H. Y. Kong, Adaptive decode-and-forward cooperative networks with limited feedback, IEICE Transactions on Communications, vol. E93-B, no. 2, Feb. 2010."
 
 - name: Python
   i18n: cpython
