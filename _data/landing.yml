@@ -15,8 +15,8 @@
 - id: publications
   i18n: nav.projects
   name: Publications
-  tpl: publications.html
-  css: publications
+  tpl: projects.html
+  css: projects
 
 - id: skills
   i18n: nav.skills
