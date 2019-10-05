@@ -8,7 +8,7 @@
   #img: /static/assets/img/landing/jekyll.png
   desc: | 
       [1] TiTiNguyen, Vu N. Ha, Long B. Le, and Robert Schober, "Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems," IEEE Transactions on Wireless Communications, 2019. (To appear)\n 
-      
+      \n\n       
       [2] Vu N. Ha, Duy H. N. Nguyen, and Jean-Francois Frigon, "Joint subchannel allocation and hybrid precoding design for mmWave multiuser OFDMA systems," IEEE Transactions on Wireless Communications, 2018.\n 
 
 - name: Python
