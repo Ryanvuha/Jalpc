@@ -28,15 +28,17 @@
    
    [11] Vu N. Ha and H. Y. Kong, Adaptive decode-and-forward cooperative networks with limited feedback, IEICE Transactions on Communications, vol. E93-B, no. 2, Feb. 2010."
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Conference
+  i18n: conference
+  #gh_user: python
+  #repo: cpython
+  #img: /static/assets/img/landing/python.png
+  desc: "[1] P. D. Nguyen, Vu N. Ha, Long B. Le, Computation Offloading and Resource Allocation for Backhaul Limited Cooperative MEC Systems, accepted for publishing in proc. IEEE VTC-Fall 2019. <br />
+  
+   [2] Vu N. Ha, Duy H. N. Nguyen, and Jean-Francois Frigon, Energy-Efficient Hybrid Precoding for mmWave Multi-user Systems, IEEE ICC, May 2018."
 
 - name: Google
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: "https://scholar.google.com/citations?user=ZKYvTCgAAAAJ"
