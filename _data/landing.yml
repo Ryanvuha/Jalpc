@@ -20,7 +20,7 @@
 
 - id: publications
   i18n: nav.projects
-  name: Projects
+  name: Publications
   tpl: projects.html
   css: project
 
