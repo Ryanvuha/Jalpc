@@ -6,8 +6,8 @@
   desc:
     detail: | 
          Working exclusively in NSERC project - under Grant RGPIN-2016-06401 in Poly-Grames Research Center.
-         Developing fundamental research for massive-MIMO and mmWave communication networks: Designing, optimizing, and evaluating resource allocation (beamforming, subchannel allocation, admission control).
-         Designing efficient frameworks and resource management algorithms for Mobile Edge Computing, 5G-NR and beyond-5G with flexible numerology, Physical Layer with AI.|Collaborating with Everest Networks Ltd. in designing new Resource Allocation mechanism for WiFi 802.11ac/ax systems: MU-MIMO with compressed beamforming feedback, user scheduling, and employing user’s performance statistic data analysis."
+         Developing fundamental research for hybrid beamforming design for massive-MIMO and mmWave communication networks.
+         Designing efficient frameworks and resource management algorithms for Mobile Edge Computing, 5G-NR and beyond-5G with flexible numerology, Physical Layer with AI. 
     i18n: Poly_mtl_desc
   date:
     detail: Oct. 2016
@@ -22,7 +22,9 @@
     detail: Humanitas Solutions
     i18n: Humintas
   desc:
-    detail: I worked at Company B ...
+    detail: | 
+    Working exclusively in Deep learning based drone-assisted wireless location project.
+    Developing deep learning algorithm for localization, Implementing the firmware and hardware for drone-assisted localization IoT framework.
     i18n: Humintas_desc
   date:
     detail: July. 2018 - Mar. 2019
