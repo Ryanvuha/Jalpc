@@ -28,11 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I have received Ph.D. degree at the Institut National de la Recherche Scientifique -Energie, Materiaux et Telecommunications (INRS-EMT), University of Quebec, Montreal, Quebec, Canada in Aug. 2016.
-
-I received the B.Eng. degree from the French training program for excellent engineers in Vietnam (PFIEV), Ho Chi Minh City University of Technology (HCMUT), Vietnam and an addendum degree from de Ecole Nationale Superieure des Telecommunications de Bretagne--Groupe des Ecole des Telecommunications, Bretagne, France in 2007.
-
-From 2008 to 2011, I worked as a Research Assistant in the School of Electrical Engineering, University of Ulsan, South Korea.   # Describe yourself.
+  desc: I have received Ph.D. degree at the Institut National de la Recherche Scientifique -Energie, Materiaux et Telecommunications (INRS-EMT), University of Quebec, Montreal, Quebec, Canada in Aug. 2016. I received the B.Eng. degree from the French training program for excellent engineers in Vietnam (PFIEV), Ho Chi Minh City University of Technology (HCMUT), Vietnam and an addendum degree from de Ecole Nationale Superieure des Telecommunications de Bretagne--Groupe des Ecole des Telecommunications, Bretagne, France in 2007. From 2008 to 2011, I worked as a Research Assistant in the School of Electrical Engineering, University of Ulsan, South Korea.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
