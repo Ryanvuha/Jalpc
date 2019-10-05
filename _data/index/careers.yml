@@ -33,3 +33,19 @@
     detail: Intern R&D Engineer
     i18n: Humintas_job
   icon: fa-plus-square
+  
+  - name:
+    detail: INRS-EMT, University of Quebec
+    i18n: inrs_emt
+  desc:
+    detail: | 
+         Acquiring solid background and understanding of 4 & 5G wireless communications: LTE, Femtocell, C-RAN, Massive MIMO, Full-Duplex.
+         Designing and evaluating adaptive multiuser beamforming, power control, subchannel allocation, and signal processing techniques for HetNets and C-RAN.
+    i18n: inrs_emt_desc
+  date:
+    detail: Aug. 2011 - Sep. 2016
+    i18n: inrs_emt_date
+  job:
+    detail: Ph.D. Research Assistant
+    i18n: Humintas_job
+  icon: fa-plus-square
