@@ -4,9 +4,9 @@
     detail: Polytechnique Montreal
     i18n: Poly_mtl
   desc:
-    detail: |
+    detail: | 
          Working exclusively in NSERC project - under Grant RGPIN-2016-06401 in Poly-Grames Research Center.
-         "Developing fundamental research for massive-MIMO and mmWave communication networks: Designing, optimizing, and evaluating resource allocation (beamforming, subchannel allocation, admission control)."
+         Developing fundamental research for massive-MIMO and mmWave communication networks: Designing, optimizing, and evaluating resource allocation (beamforming, subchannel allocation, admission control).
          Designing efficient frameworks and resource management algorithms for Mobile Edge Computing, 5G-NR and beyond-5G with flexible numerology, Physical Layer with AI.|Collaborating with Everest Networks Ltd. in designing new Resource Allocation mechanism for WiFi 802.11ac/ax systems: MU-MIMO with compressed beamforming feedback, user scheduling, and employing user’s performance statistic data analysis."
     i18n: Poly_mtl_desc
   date:
