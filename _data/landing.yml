@@ -18,7 +18,7 @@
   tpl: skills.html
   css: team
 
-- id: projects
+- id: publications
   i18n: nav.projects
   name: Projects
   tpl: projects.html
