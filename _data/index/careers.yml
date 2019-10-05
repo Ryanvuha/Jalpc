@@ -23,8 +23,8 @@
     i18n: Humintas
   desc:
     detail: | 
-    Working exclusively in Deep learning based drone-assisted wireless location project.
-    Developing deep learning algorithm for localization, Implementing the firmware and hardware for drone-assisted localization IoT framework.
+         Working exclusively in Deep learning based drone-assisted wireless location project.
+         Developing deep learning algorithm for localization, Implementing the firmware and hardware for drone-assisted localization IoT framework.
     i18n: Humintas_desc
   date:
     detail: July. 2018 - Mar. 2019
