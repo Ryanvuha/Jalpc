@@ -5,7 +5,7 @@
   i18n: journal
   #gh_user: jarrekk
   #repo: Jalpc
-  #img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/AME_icon10.png
   desc: "[1] <b>Vu N. Ha</b>, TiTi Nguyen, Long B. Le, and Jean-Francois Frigon, <b>Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks,</b> <i>in submission to IEEE Networking Letters,</i> 2019. (Minor revision) <br />
   <br />
    [2] Ti Ti Nguyen, <b>Vu N. Ha</b>, Long B. Le, and Robert Schober, <a href=\"https://ieeexplore.ieee.org/document/8859632/\"><b>Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2019. (To appear) <br />
@@ -34,7 +34,7 @@
   i18n: conference
   #gh_user: python
   #repo: cpython
-  #img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/conference.png
   desc: "[1] P. D. Nguyen, Vu N. Ha, Long B. Le, Computation Offloading and Resource Allocation for Backhaul Limited Cooperative MEC Systems, accepted for publishing in proc. IEEE VTC-Fall 2019. <br />
   
    [2] Vu N. Ha, Duy H. N. Nguyen, and Jean-Francois Frigon, Energy-Efficient Hybrid Precoding for mmWave Multi-user Systems, IEEE ICC, May 2018. <br />
