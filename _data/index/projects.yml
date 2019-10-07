@@ -67,5 +67,5 @@
 - name: Google
   i18n: google
   url: https://scholar.google.com/citations?user=ZKYvTCgAAAAJ
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/scholar.png
   desc: "https://scholar.google.com/citations?user=ZKYvTCgAAAAJ"
