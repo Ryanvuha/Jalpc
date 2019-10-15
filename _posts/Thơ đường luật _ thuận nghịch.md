@@ -11,23 +11,23 @@ icon: icon-html
 
 Thuận: 
 
-Thu vàng sáng rực đất êm ru 
-Thắm sắc xanh trời ngoạn cảnh du
-Đu đẩy lá cùng chim réo rắt 
-Lững lờ mây mặc gió vi vu 
-Du dương nhịp khúc vui chân bước,
-Khởi khấp lòng tan rũ uất u 
-Du cảnh ngoạn trời xanh sắc thắm,
-Ru êm đất rực sáng vàng thu,   
+Thu vàng sáng rực đất êm ru <br/>
+Thắm sắc xanh trời ngoạn cảnh du <br/>
+Đu đẩy lá cùng chim réo rắt <br/>
+Lững lờ mây mặc gió vi vu <br/>
+Du dương nhịp khúc vui chân bước, <br/>
+Khởi khấp lòng tan rũ uất u <br/>
+Du cảnh ngoạn trời xanh sắc thắm, <br/>
+Ru êm đất rực sáng vàng thu, <br/>   
  
 
 Nghịch:
 
-Thu vàng sáng rực đất êm ru
-Thắm sắc xanh trời ngoạn cảnh du
-U uất rũ tan lòng khấp khởi,
-Bước chân vui khúc nhịp dương du,
-Vu vi gió mặc mây lờ lững,
-Rắt réo chim cùng lá đẩy đu,
-Du cảnh ngoạn trời xanh sắc thắm,
-Ru êm đất rực sáng vàng thu,
+Thu vàng sáng rực đất êm ru <br/>
+Thắm sắc xanh trời ngoạn cảnh du <br/>
+U uất rũ tan lòng khấp khởi, <br/>
+Bước chân vui khúc nhịp dương du, <br/>
+Vu vi gió mặc mây lờ lững, <br/>
+Rắt réo chim cùng lá đẩy đu, <br/>
+Du cảnh ngoạn trời xanh sắc thắm, <br/>
+Ru êm đất rực sáng vàng thu, <br/>
