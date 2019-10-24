@@ -1,6 +1,23 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Ecole Technologie Superieure
+    i18n: Ets_mtl
+  desc:
+    detail: | 
+         Working exclusively in the project -  ‘Intelligent Tactical Wireless Networks for Challenging Environments’, sponsored by Ultra Electronic TCS <br \>
+         Designing efficient frameworks for Link Adaptation in Contested and Mobile Environments using optimization and reinforcement learning techniques. 
+    i18n: Poly_mtl_desc
+  date:
+    detail: Oct. 2019
+    i18n: Ets_mtl_date
+  job:
+    detail: Postdoctoral Fellow
+    i18n: Ets_mtl_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: Polytechnique Montreal
     i18n: Poly_mtl
   desc:
@@ -10,13 +27,13 @@
          Designing efficient frameworks and resource management algorithms for Mobile Edge Computing, 5G-NR and beyond-5G with flexible numerology, Physical Layer with AI. 
     i18n: Poly_mtl_desc
   date:
-    detail: Oct. 2016
+    detail: Oct. 2016 - Oct. 2019
     i18n: Poly_mtl_date
   job:
     detail: Postdoctoral Fellow
     i18n: Poly_mtl_job
   icon: fa-plus-square
-  present: true
+  #present: false
 
 - name:
     detail: Humanitas Solutions
