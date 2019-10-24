@@ -22,15 +22,15 @@
     i18n: Poly_mtl
   desc:
     detail: | 
-         Working exclusively in NSERC project - under Grant RGPIN-2016-06401 in Poly-Grames Research Center.
-         Developing fundamental research for hybrid beamforming design for massive-MIMO and mmWave communication networks.
+         Working exclusively in NSERC project - under Grant RGPIN-2016-06401 in Poly-Grames Research Center. <br \>
+         Developing fundamental research for hybrid beamforming design for massive-MIMO and mmWave communication networks. <br \>
          Designing efficient frameworks and resource management algorithms for Mobile Edge Computing, 5G-NR and beyond-5G with flexible numerology, Physical Layer with AI. 
     i18n: Poly_mtl_desc
   date:
     detail: Oct. 2016 - Oct. 2019
     i18n: Poly_mtl_date
   job:
-    detail: Postdoctoral Fellow
+    detail: Postdoctoral Fellow <br \> with FQRNT postdoctoral fellowship
     i18n: Poly_mtl_job
   icon: fa-plus-square
   #present: false
@@ -40,7 +40,7 @@
     i18n: Humintas
   desc:
     detail: | 
-         Working exclusively in Deep learning based drone-assisted wireless location project.
+         Working exclusively in Deep learning based drone-assisted wireless location project. <br \>
          Developing deep learning algorithm for localization, Implementing the firmware and hardware for drone-assisted localization IoT framework.
     i18n: Humintas_desc
   date:
@@ -56,7 +56,7 @@
     i18n: inrs_emt
   desc:
     detail: | 
-         Acquiring solid background and understanding of 4G and 5G wireless communications: LTE, Femtocell, C-RAN, Massive MIMO, Full-Duplex. 
+         Acquiring solid background and understanding of 4G and 5G wireless communications: LTE, Femtocell, C-RAN, Massive MIMO, Full-Duplex. <br \>
          Designing and evaluating adaptive multiuser beamforming, power control, subchannel allocation, and signal processing techniques for HetNets and C-RAN.
     i18n: inrs_emt_desc
   date:
