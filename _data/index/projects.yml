@@ -6,7 +6,7 @@
   #gh_user: jarrekk
   #repo: Jalpc
   img: /static/assets/img/landing/AME_icon10.png
-  desc: "<font color=\"blue\">[1]</font> <b>Vu N. Ha</b>, Duy N. H. Nguyen, and Jean-Francois Frigon, <b>Energy-Efficient Hybrid Beamforming for mmWave Multi-user Systems,</b> <i>in submission to IEEE Transactions on Green Communications and Networking,</i> 2019. (Major revision) <br />
+  desc: "<font color=\"blue\">[1]</font> <b>Vu N. Ha</b>, Duy N. H. Nguyen, and Jean-Francois Frigon, <a heref=\"https://arxiv.org/abs/2001.05439\"><b>Energy-Efficient Hybrid Beamforming for mmWave Multi-user Systems,</b></a> <i>in submission to IEEE Transactions on Green Communications and Networking,</i> 2019. (Major revision) <br />
   <br />
   
   <font color=\"blue\">[2]</font> <b>Vu N. Ha</b>, TiTi Nguyen, Long B. Le, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8932576/\"><b>Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks,</b></a> <i>IEEE Networking Letters,</i> 2019. (Early Access) <br />
@@ -42,7 +42,7 @@
   #gh_user: python
   #repo: cpython
   img: /static/assets/img/landing/conference.png
-  desc: " <font color=\"green\">[1]</font> H. Hojatian, <b>Vu N. Ha</b>, J. Nadal, J.-F. Frigon, and F. Leduc-Primeau, <b><font color=\"green\">RSSI-Based Hybrid Beamforming Design with Deep Learning,</font></b> IEEE ICC 2020 <font color=\"red\">(Accepted)<\font>. <br />
+  desc: " <font color=\"green\">[1]</font> H. Hojatian, <b>Vu N. Ha</b>, J. Nadal, J.-F. Frigon, and F. Leduc-Primeau, <b><font color=\"green\">RSSI-Based Hybrid Beamforming Design with Deep Learning,</font></b> IEEE ICC 2020 <font color=\"red\">(Accepted)</font>. <br />
    <br />   
    <font color=\"green\">[2]</font> P. D. Nguyen, <b>Vu N. Ha</b>, Long B. Le, <b><font color=\"green\">Computation Offloading and Resource Allocation for Backhaul Limited Cooperative MEC Systems,</font></b> in proc. IEEE VTC-Fall 2019. <br />
    <br />
