@@ -6,71 +6,71 @@
   #gh_user: jarrekk
   #repo: Jalpc
   img: /static/assets/img/landing/AME_icon10.png
-  desc: "<font color=\"red\">[1]</font> <b>Vu N. Ha</b>, Duy N. H. Nguyen, and Jean-Francois Frigon, <b>Energy-Efficient Hybrid Beamforming for mmWave Multi-user Systems,</b> <i>in submission to IEEE Transactions on Green Communications and Networking,</i> 2019. (Major revision) <br />
+  desc: "<font color=\"blue\">[1]</font> <b>Vu N. Ha</b>, Duy N. H. Nguyen, and Jean-Francois Frigon, <b>Energy-Efficient Hybrid Beamforming for mmWave Multi-user Systems,</b> <i>in submission to IEEE Transactions on Green Communications and Networking,</i> 2019. (Major revision) <br />
   <br />
   
-  <font color=\"red\">[2]</font> <b>Vu N. Ha</b>, TiTi Nguyen, Long B. Le, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8932576/\"><b>Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks,</b></a> <i>IEEE Networking Letters,</i> 2019. (Early Access) <br />
+  <font color=\"blue\">[2]</font> <b>Vu N. Ha</b>, TiTi Nguyen, Long B. Le, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8932576/\"><b>Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks,</b></a> <i>IEEE Networking Letters,</i> 2019. (Early Access) <br />
   <br />
   
-  <font color=\"red\">[3]</font> TiTi Nguyen, <b>Vu N. Ha</b>, and Long B. Le, <a href=\"https://ieeexplore.ieee.org/document/8894494/\"><b>Wireless Scheduling for Heterogeneous Services with Mixed Numerology in 5G Wireless Networks,</b></a> <i>IEEE Wireless Communications Letters,</i> 2019. (Early Access)<br />
+  <font color=\"blue\">[3]</font> TiTi Nguyen, <b>Vu N. Ha</b>, and Long B. Le, <a href=\"https://ieeexplore.ieee.org/document/8894494/\"><b>Wireless Scheduling for Heterogeneous Services with Mixed Numerology in 5G Wireless Networks,</b></a> <i>IEEE Wireless Communications Letters,</i> 2019. (Early Access)<br />
   <br />
     
-   <font color=\"red\">[4]</font> Ti Ti Nguyen, <b>Vu N. Ha</b>, Long B. Le, and Robert Schober, <a href=\"https://ieeexplore.ieee.org/document/8859632/\"><b>Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2019. (Early Access) <br />
+   <font color=\"blue\">[4]</font> Ti Ti Nguyen, <b>Vu N. Ha</b>, Long B. Le, and Robert Schober, <a href=\"https://ieeexplore.ieee.org/document/8859632/\"><b>Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2019. (Early Access) <br />
   <br />
-   <font color=\"red\">[5]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8405770/\"><b>Subchannel Allocation and Hybrid Precoding in Millimeter-Wave OFDMA Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2018. <br />
+   <font color=\"blue\">[5]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8405770/\"><b>Subchannel Allocation and Hybrid Precoding in Millimeter-Wave OFDMA Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2018. <br />
    <br />
-   <font color=\"red\">[6]</font> <b>Vu N. Ha</b> and Long B. Le, <a href=\"http://ieeexplore.ieee.org/abstract/document/8046013/\"><b>End-to-end network slicing in virtualized OFDMA-based cloud radio access networks,</b></a> <i>IEEE Access 5,</i> 2017. <br />
+   <font color=\"blue\">[6]</font> <b>Vu N. Ha</b> and Long B. Le, <a href=\"http://ieeexplore.ieee.org/abstract/document/8046013/\"><b>End-to-end network slicing in virtualized OFDMA-based cloud radio access networks,</b></a> <i>IEEE Access 5,</i> 2017. <br />
    <br />
-   <font color=\"red\">[7]</font> <b>Vu N. Ha</b>, Long B. Le, and Ngoc-Dung Dao, <a href=\"http://ieeexplore.ieee.org/document/7287780/\"><b>Coordinated multipoint transmission design for Cloud-RANs considering limited fronthaul capacity constraints,</b></a> <i> IEEE Transactions on Vehicular Technology,</i> vol. 65, no. 9, Sept. 2016. <br />
+   <font color=\"blue\">[7]</font> <b>Vu N. Ha</b>, Long B. Le, and Ngoc-Dung Dao, <a href=\"http://ieeexplore.ieee.org/document/7287780/\"><b>Coordinated multipoint transmission design for Cloud-RANs considering limited fronthaul capacity constraints,</b></a> <i> IEEE Transactions on Vehicular Technology,</i> vol. 65, no. 9, Sept. 2016. <br />
    <br />
-   <font color=\"red\">[8]</font> Tri Nguyen, <b>Vu N. Ha</b>, and Long B. Le, <a href=\"http://ieeexplore.ieee.org/document/7177037/\"><b>Resource allocation optimization in multi-user multi-cell massive MIMO networks considering pilot contamination,</b></a> <i> IEEE Access, 3,</i> 2015. <br />
+   <font color=\"blue\">[8]</font> Tri Nguyen, <b>Vu N. Ha</b>, and Long B. Le, <a href=\"http://ieeexplore.ieee.org/document/7177037/\"><b>Resource allocation optimization in multi-user multi-cell massive MIMO networks considering pilot contamination,</b></a> <i> IEEE Access, 3,</i> 2015. <br />
    <br />
-   <font color=\"red\">[9]</font> <b>Vu N. Ha</b> and Long B. Le, <a href=\"http://ieeexplore.ieee.org/document/6620936/\"><b>Fair resource allocation for OFDMA femtocell networks with macrocell protection,</b></a> <i> IEEE Transactions on Vehicular Technology,</i> vol. 63, no. 3, Mar. 2014. <br />
+   <font color=\"blue\">[9]</font> <b>Vu N. Ha</b> and Long B. Le, <a href=\"http://ieeexplore.ieee.org/document/6620936/\"><b>Fair resource allocation for OFDMA femtocell networks with macrocell protection,</b></a> <i> IEEE Transactions on Vehicular Technology,</i> vol. 63, no. 3, Mar. 2014. <br />
    <br />
-   <font color=\"red\">[10]</font> <b>Vu N. Ha</b> and Long B. Le, <a href=\"http://ieeexplore.ieee.org/document/6560450/\"><b>Distributed base station association and power control for heterogeneous cellular networks,</b></a> <i> IEEE Transactions on Vehicular Technology,</i> vol. 63, no. 1, Jan. 2014. <br />
+   <font color=\"blue\">[10]</font> <b>Vu N. Ha</b> and Long B. Le, <a href=\"http://ieeexplore.ieee.org/document/6560450/\"><b>Distributed base station association and power control for heterogeneous cellular networks,</b></a> <i> IEEE Transactions on Vehicular Technology,</i> vol. 63, no. 1, Jan. 2014. <br />
    <br />
-   <font color=\"red\">[11]</font> <b>Vu N. Ha</b> and H. Y. Kong, <a href=\"http://ieeexplore.ieee.org/document/6253086/\"><b>Joint subcarrier matching and power allocation in OFDM two-way relay systems,</b></a> <i> IEEE Journal of Communications and Networks,</i> vol. 14, no. 3, Jun. 2012. <br />
+   <font color=\"blue\">[11]</font> <b>Vu N. Ha</b> and H. Y. Kong, <a href=\"http://ieeexplore.ieee.org/document/6253086/\"><b>Joint subcarrier matching and power allocation in OFDM two-way relay systems,</b></a> <i> IEEE Journal of Communications and Networks,</i> vol. 14, no. 3, Jun. 2012. <br />
    <br />
-   <font color=\"red\">[12]</font> <b>Vu N. Ha</b> and H. Y. Kong, <a href=\"https://bit.ly/2Ooqe02\"><b>Performance analysis for the amplify-and-forward two-way cooperative relaying network,</b></a> <i> IEICE Transactions on Communications,</i> vol. E94-B, no. 9, Sept. 2011. <br />
+   <font color=\"blue\">[12]</font> <b>Vu N. Ha</b> and H. Y. Kong, <a href=\"https://bit.ly/2Ooqe02\"><b>Performance analysis for the amplify-and-forward two-way cooperative relaying network,</b></a> <i> IEICE Transactions on Communications,</i> vol. E94-B, no. 9, Sept. 2011. <br />
    <br />
-   <font color=\"red\">[13]</font> <b>Vu N. Ha</b>, Tan T. Le, and H. Y. Kong, <a href=\"https://bit.ly/2AS6D0e\"><b>Capacity performance analysis for decode-and-forward OFDM dual-hop system,</b></a> <i> IEICE Transactions on Communications,</i> vol. E93-B, no. 9, Sept. 2010. <br />
+   <font color=\"blue\">[13]</font> <b>Vu N. Ha</b>, Tan T. Le, and H. Y. Kong, <a href=\"https://bit.ly/2AS6D0e\"><b>Capacity performance analysis for decode-and-forward OFDM dual-hop system,</b></a> <i> IEICE Transactions on Communications,</i> vol. E93-B, no. 9, Sept. 2010. <br />
    <br />
-   <font color=\"red\">[14]</font> <b>Vu N. Ha</b> and H. Y. Kong, <a href=\"https://bit.ly/2OpBp8J\"><b>Adaptive decode-and-forward cooperative networks with limited feedback, </b></a> <i>IEICE Transactions on Communications,</i> vol. E93-B, no. 2, Feb. 2010."
+   <font color=\"blue\">[14]</font> <b>Vu N. Ha</b> and H. Y. Kong, <a href=\"https://bit.ly/2OpBp8J\"><b>Adaptive decode-and-forward cooperative networks with limited feedback, </b></a> <i>IEICE Transactions on Communications,</i> vol. E93-B, no. 2, Feb. 2010."
 
 - name: Conference
   i18n: conference
   #gh_user: python
   #repo: cpython
   img: /static/assets/img/landing/conference.png
-  desc: " <font color=\"green\">[1]</font> H. Hojatian, <b>Vu N. Ha</b>, J. Nadal, J.-F. Frigon, and F. Leduc-Primeau, <b>RSSI-Based Hybrid Beamforming Design with Deep Learning,</b> IEEE ICC 2020 (Accepted). <br />
+  desc: " <font color=\"green\">[1]</font> H. Hojatian, <b>Vu N. Ha</b>, J. Nadal, J.-F. Frigon, and F. Leduc-Primeau, <b><font color=\"green\">RSSI-Based Hybrid Beamforming Design with Deep Learning,</font></b> IEEE ICC 2020 <font color=\"red\">(Accepted)<\font>. <br />
    <br />   
-   <font color=\"green\">[2]</font> P. D. Nguyen, <b>Vu N. Ha</b>, Long B. Le, <b>Computation Offloading and Resource Allocation for Backhaul Limited Cooperative MEC Systems,</b> in proc. IEEE VTC-Fall 2019. <br />
+   <font color=\"green\">[2]</font> P. D. Nguyen, <b>Vu N. Ha</b>, Long B. Le, <b><font color=\"green\">Computation Offloading and Resource Allocation for Backhaul Limited Cooperative MEC Systems,</font></b> in proc. IEEE VTC-Fall 2019. <br />
    <br />
-   <font color=\"green\">[3]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Jean-Francois Frigon, <b>Energy-Efficient Hybrid Precoding for mmWave Multi-user Systems,</b> IEEE ICC, May 2018. <br />
+   <font color=\"green\">[3]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Jean-Francois Frigon, <b><font color=\"green\">Energy-Efficient Hybrid Precoding for mmWave Multi-user Systems,</font></b> IEEE ICC, May 2018. <br />
    <br />
-   <font color=\"green\">[4]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Jean-Francois Frigon, <b>Joint Subchannel Allocation and Hybrid Precoding Design for mmWave Multiuser OFDMA Systems,</b> in Proc. IEEE PIMRC, Oct. 2017. <br />
+   <font color=\"green\">[4]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Jean-Francois Frigon, <b><font color=\"green\">Joint Subchannel Allocation and Hybrid Precoding Design for mmWave Multiuser OFDMA Systems,</font></b> in Proc. IEEE PIMRC, Oct. 2017. <br />
    <br />
-   <font color=\"green\">[5]</font> Tam T. Tran, <b>Vu N. Ha</b>, Long B. Le, and Andre Girard, <b>Uplink/Downlink Matching Based Resource Allocation for Full-Duplex OFDMA Wireless Cellular Networks,</b> in Proc. IEEEWCNC, Mar. 2017. <br />
+   <font color=\"green\">[5]</font> Tam T. Tran, <b>Vu N. Ha</b>, Long B. Le, and Andre Girard, <b><font color=\"green\">Uplink/Downlink Matching Based Resource Allocation for Full-Duplex OFDMA Wireless Cellular Networks,</font></b> in Proc. IEEEWCNC, Mar. 2017. <br />
    <br />
-   <font color=\"green\">[6]</font> Tam T. Tran, <b>Vu N. Ha</b>, Long B. Le, and André Girard, <b>Dynamic resource allocation for full-duplex OFDMA wireless cellular networks,</b> in Proc. IEEE VTC2016-Fall, Sept. 2016. <br />
+   <font color=\"green\">[6]</font> Tam T. Tran, <b>Vu N. Ha</b>, Long B. Le, and André Girard, <b><font color=\"green\">Dynamic resource allocation for full-duplex OFDMA wireless cellular networks,</font></b> in Proc. IEEE VTC2016-Fall, Sept. 2016. <br />
    <br />
-   <font color=\"green\">[7]</font> <b>Vu N. Ha</b> and Long B. Le, <b>Resource allocation for uplink OFDMA C-RANs with limited computation and fronthaul capacity,</b> in Proc. IEEE ICC 2016, May. 2016. <br />
+   <font color=\"green\">[7]</font> <b>Vu N. Ha</b> and Long B. Le, <b><font color=\"green\">Resource allocation for uplink OFDMA C-RANs with limited computation and fronthaul capacity,</font></b> in Proc. IEEE ICC 2016, May. 2016. <br />
    <br />
-   <font color=\"green\">[8]</font> <b>Vu N. Ha</b> and Long B. Le, <b>Computation capacity constrained joint transmission design for C-RANs,</b> in Proc. IEEE WCNC 2016, Apr. 2016. <br />
+   <font color=\"green\">[8]</font> <b>Vu N. Ha</b> and Long B. Le, <b><font color=\"green\">Computation capacity constrained joint transmission design for C-RANs,</font></b> in Proc. IEEE WCNC 2016, Apr. 2016. <br />
    <br />
-   <font color=\"green\">[9]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Long B. Le, <b>Sparse precoding designs for Cloud-RANs sum-rate maximization,</b> in Proc. IEEE WCNC 2015, Mar. 2015. <br />
+   <font color=\"green\">[9]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Long B. Le, <b><font color=\"green\">Sparse precoding designs for Cloud-RANs sum-rate maximization,</font></b> in Proc. IEEE WCNC 2015, Mar. 2015. <br />
    <br />
-   <font color=\"green\">[10]</font> <b>Vu N. Ha</b> and Long B. Le, <b>Joint coordinated beamforming and admission control for fronthaul constrained Cloud-RANs,</b> in Proc. IEEE GLOBECOM 2014, Dec. 2014. (in Top 50 Best Paper of Globecom’2014) <br />
+   <font color=\"green\">[10]</font> <b>Vu N. Ha</b> and Long B. Le, <b><font color=\"green\">Joint coordinated beamforming and admission control for fronthaul constrained Cloud-RANs,</font></b> in Proc. IEEE GLOBECOM 2014, Dec. 2014. (in Top 50 Best Paper of Globecom’2014) <br />
    <br />
-   <font color=\"green\">[11]</font> <b>Vu N. Ha</b>, Long B. Le, and Ngoc-Dung Dao, <b>Energy-efficient coordinated transmission for Cloud-RANs Algorithm design and tradeoff,</b> in Proc. IEEE CISS 2014, Mar. 2014. <br />
+   <font color=\"green\">[11]</font> <b>Vu N. Ha</b>, Long B. Le, and Ngoc-Dung Dao, <b><font color=\"green\">Energy-efficient coordinated transmission for Cloud-RANs Algorithm design and tradeoff,</font></b> in Proc. IEEE CISS 2014, Mar. 2014. <br />
    <br />
-   <font color=\"green\">[12]</font> <b>Vu N. Ha</b>, Long B. Le, and Ngoc-Dung Dao, <b>Cooperative transmission in Cloud-RAN considering fronthaul capacity and cloud processing constraints,</b> in Proc. IEEEWCNC 2014, Apr. 2014. <br />
+   <font color=\"green\">[12]</font> <b>Vu N. Ha</b>, Long B. Le, and Ngoc-Dung Dao, <b><font color=\"green\">Cooperative transmission in Cloud-RAN considering fronthaul capacity and cloud processing constraints,</font></b> in Proc. IEEEWCNC 2014, Apr. 2014. <br />
    <br />
-   <font color=\"green\">[13]</font> <b>Vu N. Ha</b> and Long B. Le, <b>Resource management for two-tier femtocell networks using interference alignment,</b> in Proc. Workshop - Heterogeneous and Small Cell Networks (HetSNets), IEEE GLOBECOM’2013, Dec. 2013. <br />
+   <font color=\"green\">[13]</font> <b>Vu N. Ha</b> and Long B. Le, <b><font color=\"green\">Resource management for two-tier femtocell networks using interference alignment,</font></b> in Proc. Workshop - Heterogeneous and Small Cell Networks (HetSNets), IEEE GLOBECOM’2013, Dec. 2013. <br />
    <br />
-   <font color=\"green\">[14]</font> <b>Vu N. Ha</b> and Long B. Le, <b>Distributed resource allocation for OFDMA femtocell networks with macrocell protection,</b> in Proc. IEEEWCNC 2013, Apr. 2013. <br />
+   <font color=\"green\">[14]</font> <b>Vu N. Ha</b> and Long B. Le, <b><font color=\"green\">Distributed resource allocation for OFDMA femtocell networks with macrocell protection,</font></b> in Proc. IEEEWCNC 2013, Apr. 2013. <br />
    <br />
-   <font color=\"green\">[15]</font> <b>Vu N. Ha</b> and Long B. Le, <b>Hybrid access design for femtocell networks with dynamic user association and power control,</b> in Proc. IEEE VTC-Fall 2012, Sept. 2012.
+   <font color=\"green\">[15]</font> <b>Vu N. Ha</b> and Long B. Le, <b><font color=\"green\">Hybrid access design for femtocell networks with dynamic user association and power control,</font></b> in Proc. IEEE VTC-Fall 2012, Sept. 2012.
    "
 
 - name: Google Scholar
