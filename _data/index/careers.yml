@@ -1,6 +1,23 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: SnT - Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
+    i18n: Snt
+  desc:
+    detail: | 
+         Working exclusively in several projects on Satellite Communication Systems - FNR, SES, ESA <br \>
+         Designing efficient frameworks for Beam Hoping, Multi-beam Precoding using optimization and reinforcement learning techniques. 
+    i18n: Snt_desc
+  date:
+    detail: Apr. 2021
+    i18n: Snt_date
+  job:
+    detail: Researcher Associate
+    i18n: Snt_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
     detail: Ecole Technologie Superieure
     i18n: Ets_mtl
   desc:
@@ -15,7 +32,7 @@
     detail: Postdoctoral Fellow
     i18n: Ets_mtl_job
   icon: fa-plus-square
-  present: true
+  #present: true
 
 - name:
     detail: Polytechnique Montreal
