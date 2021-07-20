@@ -15,13 +15,13 @@
   <font color=\"blue\">[3]</font> <b>Vu N. Ha</b>, Duy N. H. Nguyen, and Jean-Francois Frigon, <a heref=\"https://ieeexplore.ieee.org/abstract/document/9094668\"><b>System Energy-Efficient Hybrid Beamforming for mmWave Multi-user Systems,</b></a> <i>IEEE Transactions on Green Communications and Networking,</i> 2020. <br />
   <br />
   
-  <font color=\"blue\">[4]</font> <b>Vu N. Ha</b>, TiTi Nguyen, Long B. Le, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8932576/\"><b>Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks,</b></a> <i>IEEE Networking Letters,</i> 2019. (Early Access) <br />
+  <font color=\"blue\">[4]</font> <b>Vu N. Ha</b>, TiTi Nguyen, Long B. Le, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8932576/\"><b>Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks,</b></a> <i>IEEE Networking Letters,</i> 2019. <br />
   <br />
   
-  <font color=\"blue\">[5]</font> TiTi Nguyen, <b>Vu N. Ha</b>, and Long B. Le, <a href=\"https://ieeexplore.ieee.org/document/8894494/\"><b>Wireless Scheduling for Heterogeneous Services with Mixed Numerology in 5G Wireless Networks,</b></a> <i>IEEE Wireless Communications Letters,</i> 2019. (Early Access)<br />
+  <font color=\"blue\">[5]</font> TiTi Nguyen, <b>Vu N. Ha</b>, and Long B. Le, <a href=\"https://ieeexplore.ieee.org/document/8894494/\"><b>Wireless Scheduling for Heterogeneous Services with Mixed Numerology in 5G Wireless Networks,</b></a> <i>IEEE Wireless Communications Letters,</i> 2019. <br />
   <br />
     
-  <font color=\"blue\">[6]</font> Ti Ti Nguyen, <b>Vu N. Ha</b>, Long B. Le, and Robert Schober, <a href=\"https://ieeexplore.ieee.org/document/8859632/\"><b>Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2019. (Early Access) <br />
+  <font color=\"blue\">[6]</font> Ti Ti Nguyen, <b>Vu N. Ha</b>, Long B. Le, and Robert Schober, <a href=\"https://ieeexplore.ieee.org/document/8859632/\"><b>Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2019. <br />
   <br />
    <font color=\"blue\">[7]</font> <b>Vu N. Ha</b>, Duy H. N. Nguyen, and Jean-Francois Frigon, <a href=\"https://ieeexplore.ieee.org/document/8405770/\"><b>Subchannel Allocation and Hybrid Precoding in Millimeter-Wave OFDMA Systems,</b></a> <i>IEEE Transactions on Wireless Communications,</i> 2018. <br />
    <br />
@@ -48,7 +48,7 @@
   #gh_user: python
   #repo: cpython
   img: /static/assets/img/landing/conference.png
-  desc: " <font color=\"green\">[1]</font> H. Hojatian, <b>Vu N. Ha</b>, J. Nadal, J.-F. Frigon, and F. Leduc-Primeau, <b><font color=\"green\">RSSI-Based Hybrid Beamforming Design with Deep Learning,</font></b> IEEE ICC 2020 <font color=\"red\">(Accepted)</font>. <br />
+  desc: " <font color=\"green\">[1]</font> H. Hojatian, <b>Vu N. Ha</b>, J. Nadal, J.-F. Frigon, and F. Leduc-Primeau, <b><font color=\"green\">RSSI-Based Hybrid Beamforming Design with Deep Learning,</font></b> IEEE ICC 2020. <br />
    <br />   
    <font color=\"green\">[2]</font> P. D. Nguyen, <b>Vu N. Ha</b>, Long B. Le, <b><font color=\"green\">Computation Offloading and Resource Allocation for Backhaul Limited Cooperative MEC Systems,</font></b> in proc. IEEE VTC-Fall 2019. <br />
    <br />
