@@ -11,8 +11,8 @@ icon: icon-html
 
 <center>
 
-Thuận: 
-
+Thuận: <br/>
+<br/>
 Thu vàng sáng rực đất êm ru <br/>
 Thắm sắc xanh trời ngoạn cảnh du <br/>
 Đu đẩy lá cùng chim réo rắt <br/>
@@ -21,10 +21,10 @@ Du dương nhịp khúc vui chân bước, <br/>
 Khởi khấp lòng tan rũ uất u <br/>
 Du cảnh ngoạn trời xanh sắc thắm, <br/>
 Ru êm đất rực sáng vàng thu, <br/>   
- 
-
-Nghịch:
-
+<br/> 
+<br/>
+Nghịch:<br/>
+<br/>
 Thu vàng sáng rực đất êm ru <br/>
 Thắm sắc xanh trời ngoạn cảnh du <br/>
 U uất rũ tan lòng khấp khởi, <br/>
