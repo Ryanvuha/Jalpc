@@ -9,6 +9,8 @@ tags: [Ryanvuha]
 icon: icon-html
 ---
 
+<center>
+
 Thuận: 
 
 Thu vàng sáng rực đất êm ru <br/>
@@ -31,3 +33,5 @@ Vu vi gió mặc mây lờ lững, <br/>
 Rắt réo chim cùng lá đẩy đu, <br/>
 Du cảnh ngoạn trời xanh sắc thắm, <br/>
 Ru êm đất rực sáng vàng thu, <br/>
+ 
+</center>
