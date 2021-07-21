@@ -16,6 +16,6 @@ Thâp niên lai xá chung quy tận, <br/>
 Dị xứ viễn hành tiếp biệt hương <br/>
 Ân sư kiến giải thâm tâm khắc, <br/>
 Nghĩa bạn văn tình dạ cốt thương, <br/>
-Đăng trình thượng lộ tường vân ủng <br/>
+Đăng trình thượng lộ vân tường ủng <br/>
 Khước vọng Lệ Hoa nhị cố hương! <br/>
 </center>
