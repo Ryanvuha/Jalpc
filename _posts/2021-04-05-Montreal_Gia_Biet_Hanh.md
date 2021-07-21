@@ -12,10 +12,10 @@ icon: icon-html
 <center>
 Hoàng hôn diệu diệu nhật phương phương, <br/>
 Giã biệt hữu bằng lệ vấn vương <br/>
-Thâp niên lai xá chung quy tận, <br/>
-Dị xứ viễn hành tiếp biệt hương <br/>
+Niên thập vãng lai duyên khách tận, <br/>
+Xứ tam hành viễn tiếp ly hương <br/>
 Ân sư kiến giải thâm tâm khắc, <br/>
 Nghĩa bạn văn tình dạ cốt thương, <br/>
-Đăng trình phong khởi vân tường ủng <br/>
-Khước vọng Lệ Hoa nhị cố hương! <br/>
+Phong bạt đăng trình viên ý khởi <br/>
+Lệ Hoa khước vọng nhị gia hương! <br/>
 </center>
