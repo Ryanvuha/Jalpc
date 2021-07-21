@@ -10,12 +10,12 @@ icon: icon-html
 ---
 
 <center>
-Hoàng hôn phong chuyển nhật phương phương, <br/>
+Hoàng hôn diệu diệu nhật phương phương, <br/>
 Giã biệt hữu bằng lệ vấn vương <br/>
 Thâp niên lai xá chung quy tận, <br/>
 Dị xứ viễn hành tiếp biệt hương <br/>
 Ân sư kiến giải thâm tâm khắc, <br/>
 Nghĩa bạn văn tình dạ cốt thương, <br/>
-Đăng trình thượng lộ vân tường ủng <br/>
+Đăng trình phong khởi vân tường ủng <br/>
 Khước vọng Lệ Hoa nhị cố hương! <br/>
 </center>
