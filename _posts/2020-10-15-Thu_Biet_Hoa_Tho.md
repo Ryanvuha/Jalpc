@@ -10,6 +10,8 @@ icon: icon-html
 ---
 
 <center>
+ <img src="https://scontent.flux1-1.fna.fbcdn.net/v/t31.18172-8/22256753_10213102769460493_443025223530597039_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=SwmSilrlzcQAX9GF3Xo&_nc_ht=scontent.flux1-1.fna&oh=25cdaec23dacf6a7e267e198fa5c1a73&oe=611E64E8" alt="Trulli" width="500" height="333">
+ <br/><br/>
 
 TÌM NHAU ... <br/>
 13/10/20. Trang Nguyễn Văn <br/>
