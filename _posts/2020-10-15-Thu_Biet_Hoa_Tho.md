@@ -2,7 +2,7 @@
 layout: post
 title:  "Thu Biệt - họa thơ"
 date:   2020-10-15
-desc: "Thu_Biet"
+desc: "thu_biet"
 keywords: "Ryanvuha,thơ,poems,blog,for_me"
 categories: [HTML]
 tags: [Ryanvuha]
