@@ -12,7 +12,6 @@ icon: icon-html
 <center>
  <img src="https://scontent.flux1-1.fna.fbcdn.net/v/t31.18172-8/22256753_10213102769460493_443025223530597039_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=SwmSilrlzcQAX9GF3Xo&_nc_ht=scontent.flux1-1.fna&oh=25cdaec23dacf6a7e267e198fa5c1a73&oe=611E64E8" alt="Trulli" width="500" height="333">
   <img src="https://scontent.flux1-1.fna.fbcdn.net/v/t31.18172-8/22289975_10213102769500494_5142421188633320408_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=NXJUiordOxYAX-1kH6D&_nc_ht=scontent.flux1-1.fna&oh=4572ac9a6aad94f1a1055ee3239d22e2&oe=611DBA83" alt="Trulli" width="500" height="333">
- <img src="https://scontent.flux1-1.fna.fbcdn.net/v/t31.18172-8/22553296_10213203181250725_4502811496040567591_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=jgBRXMWC8boAX_4q8Xe&_nc_ht=scontent.flux1-1.fna&oh=01ac88182ada5733efae4597f3903bac&oe=611EFB05" alt="Trulli" width="500" height="333">
  <br/><br/>
 
 TÌM NHAU ... <br/>
