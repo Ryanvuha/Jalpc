@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thơ đường luật thuận nghịch"
-date:   2019-10-15
+date:   2011-10-15
 desc: "tho_duong_luat_thuan_nghich"
 keywords: "Ryanvuha,thơ,poems,blog,for_me"
 categories: [HTML]
