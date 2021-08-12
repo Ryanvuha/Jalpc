@@ -15,7 +15,7 @@ icon: icon-html
   <br/> <br/>
 Bãng lãng hôn hoàng vân tự nhung, <br/>
 Âu sầu nhật mộ cảnh mông lung <br/>
-Hỏa xa honahf tảo thôn cô quạnh, <br/>
+Hỏa xa hoành tảo thôn cô quạnh, <br/>
 Trường lộ trực tung bãi trập trùng <br/>
 Giao điểm hợp tan thời mấy khắc? <br/>
 Viền hành nhị hướng kỷ tương phùng? <br/>
