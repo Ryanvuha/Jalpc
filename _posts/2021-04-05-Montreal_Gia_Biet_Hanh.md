@@ -20,5 +20,19 @@ Xứ tam hành viễn tiếp ly hương <br/>
 Ân sư kiến giải thâm tâm khắc, <br/>
 Nghĩa bạn văn tình dạ cốt thương, <br/>
 Phong bạt đăng trình viên ý khởi <br/>
-Lệ Hoa khước vọng nhị gia hương! <br/>
+Lệ Hoa khước vọng nhị gia hương! <br/><br/>
+
+Lux, 2021/04/05 <br/>
+
+<br/>
+NHỚ BẠN
+<br/>
+  
+Cấp cấp thời lưu chuyển nhất xuân, <br/>
+Vãng niên ly biệt lệ phân phân, <br/>
+Kim xuân đương kiến thanh hoa lãnh... <br/>
+Duy tứ đông hàn bằng hữu thâm ... <br/>
+
+Lux, 2022/04/06 <br/>
+Ps: 1 năm chia tay mọi người rồi, nhanh thật <br/>
 </center>
