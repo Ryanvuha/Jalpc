@@ -54,7 +54,13 @@
   #gh_user: python
   #repo: cpython
   img: /static/assets/img/landing/conference.png
-  desc: "<font color=\"green\">[22]</font> H. Nguyen-Kha, <b>Vu N. Ha</b>, E. Lagunas, S. Chatzinotas, J. Grotz, <b><font color=\"green\">LEO-to-User Assignment and Resource Allocation for Uplink Transmit Power Minimization,</font></b> International ITG 26th Workshop on Smart Antennas and 13th Conference on Systems, Communications, and Coding, 2023. <br />
+  desc: "<font color=\"green\">[C-25]</font> <b>Vu N. Ha</b>, E. Lagunas, T. S. Abdu, H. Chaker, S. Chatzinotas, J. Grotz, <b><font color=\"green\">Large-Scale Beam Placement and Resource Allocation Design for MEO-Constellation SATCOM,</font></b> ICC 2023 Workshop 6GSatComNet'23. <br />
+   <br /> 
+  <font color=\"green\">[C-24]</font> T. S. Abdu, E. Lagunas, <b>Vu N. Ha</b>, J. Grotz,  S. Kisseleff, S. Chatzinotas,  <b><font color=\"green\">Demand-aware Flexible Handover Strategy for LEO Constellation,</font></b> ICC 2023 Workshop 6GSatComNet'23. <br />
+   <br /> 
+  <font color=\"green\">[C-23]</font> H. Nguyen-Kha, <b>Vu N. Ha</b>, E. Lagunas, S. Chatzinotas, J. Grotz, <b><font color=\"green\">Two-tier User Association and Resource Allocation Design for Integrated Satellite-Terrestrial Networks,</font></b> ICC 2023 Workshop 6GSatComNet'23. <br />
+   <br /> 
+  <font color=\"green\">[C-22]</font> H. Nguyen-Kha, <b>Vu N. Ha</b>, E. Lagunas, S. Chatzinotas, J. Grotz, <b><font color=\"green\">LEO-to-User Assignment and Resource Allocation for Uplink Transmit Power Minimization,</font></b> International ITG 26th Workshop on Smart Antennas and 13th Conference on Systems, Communications, and Coding, 2023. <br />
    <br /> 
   <font color=\"green\">[C-21]</font> E.	Lagunas, <b>Vu N. Ha</b>, T. V. Chien, S. Andrenacci, N. Mazzali, S. Chatzinotas, <b><font color=\"green\">Multicast MMSE-based Precoded Satellite Systems: User Scheduling and Equivalent Channel Impact,</font></b> IEEE VTC-Fall 2022. <br />
    <br /> 
